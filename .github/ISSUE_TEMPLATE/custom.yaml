@@ -1,0 +1,16 @@
+---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+inputs:
+  - type: description
+    attributes:
+      value: |
+        This issue form is for reporting bugs only!
+        If you have a feature or enhancement request, please fill a [feature request][fr]
+        [fr]: sblantipodi&labels=&template=feature_request.md&title=%5BFeature+request%5D
