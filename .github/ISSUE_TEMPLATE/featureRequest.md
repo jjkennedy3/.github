@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: enhancement
 assignees: ''
-project: 2
+projects: 2
 
 ---
 
