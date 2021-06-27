@@ -1,7 +1,10 @@
+---
 name: "内容无关的 bug"
 description: "指出出现的问题"
 title: "[BUG stuff]"
 labels: ["Other Bug / 内容无关的 Bug"]
+
+---
 
 body:
 - type: markdown
