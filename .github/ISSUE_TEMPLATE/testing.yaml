@@ -1,6 +1,6 @@
-name: "bug"
-description: "test"
-title: "[BUG stuff]"
+name: bug
+description: test
+title: [BUG stuff]
 labels: ["Other Bug / 内容无关的 Bug"]
 
 body:
